@@ -11,6 +11,7 @@
 ¡Bienvenidos a mi proyecto de recomendación de videojuegos de Steam! 
 
 <hr>  
+
 ### Descripción:
 
 El proyecto esta enfocado en brindarle al usuario recomendaciones precisas de juegos que podrian interesarle en base a sus gustos personales, logrando asi un beneficio tanto para el usuario como para la propia empresa que brinda el servicio.
